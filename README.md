@@ -8,11 +8,6 @@
 👨‍💻 All of my projects are available at [GitHub](https://github.com/iqrannwl)<br>
 📫 Reach me via: [Email](mailto:iqrannwl@gmail.com)<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iqrannwl)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iqrannwl)
-
-
 
 # 💻 Tech Stack:
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
