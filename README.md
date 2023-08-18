@@ -8,7 +8,6 @@
 👨‍💻 All of my projects are available at [GitHub](https://github.com/iqrannwl)<br>
 📫 Reach me via: [Email](mailto:iqrannwl@gmail.com)<br>
 
-
 # 💻 Tech Stack:
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Ruby on Rails](https://img.shields.io/badge/ruby_on_rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
