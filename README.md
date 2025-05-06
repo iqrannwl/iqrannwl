@@ -11,33 +11,48 @@
   💬 Ask me anything. Happy to connect!
 </p>
 
-<!-- Socials -->
-<p align="center">
-  <a href="mailto:iqrannwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/iqrannwl"><img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=flat&logo=github"/></a>
-  <a href="https://linkedin.com/in/iqrannwl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/iqrannwl"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-</p>
+---
+
+<!-- GRID: Tech Stack -->
+<h2 align="center">🚀 Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" height="40"/><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="40"/><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" height="40"/><br>Nginx</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack
+<!-- GRID: ML & Data Tools -->
+<h2 align="center">🧠 Machine Learning Toolkit</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,postgres,mysql,sqlite,docker,nginx,git" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,matplotlib,tensorflow,keras" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="40"/><br>Pandas</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="40"/><br>NumPy</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br>Sklearn</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+<!-- GRID: Stats & Activity -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqrannwl&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqrannwl&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
@@ -46,10 +61,23 @@
 
 ---
 
-## 🏆 Achievements
+<!-- GRID: Trophies -->
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=darkhub&no-bg=true&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=gruvbox&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<!-- GRID: Contact -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:iqrannwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/iqrannwl"><img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=flat&logo=github"/></a>
+  <a href="https://linkedin.com/in/iqrannwl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/iqrannwl"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
