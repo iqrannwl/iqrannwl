@@ -29,16 +29,6 @@
 
 ---
 
-<!-- Projects and Contact -->
-## 🚀 Projects & Contact
-
-- 🔗 [GitHub Profile](https://github.com/iqrannwl)
-- 💼 [LinkedIn](https://www.linkedin.com/in/iqrannwl/)
-- 💻 [LeetCode](https://leetcode.com/iqrannwl/)
-- 📬 [Email Me](mailto:iqrannwl@gmail.com)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
@@ -66,10 +56,11 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqrannwl&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
@@ -77,47 +68,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=monokai&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-<!-- Footer Stats -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/iqrannwl?label=GitHub%20Stars&style=social" />
-  <img src="https://img.shields.io/github/repos/iqrannwl?label=Public%20Repos&style=social" />
-</p>
+## 🔍 Currently Working On
 
-<!-- Animated Wave Footer -->
+- 💡 Improving my ML/AI projects with real-world datasets  
+- 🔧 Building REST APIs with FastAPI  
+- 🌱 Learning cloud deployments and CI/CD workflows
+
+---
+
+## 📬 Contact
+
+- 📧 [iqrannwl@gmail.com](mailto:iqrannwl@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/iqrannwl)  
+- 👨‍💻 [GitHub](https://github.com/iqrannwl)
+
+---
+
+<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
-
-## 🛠️ Tech Stack (Animated)
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="Django"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="60" alt="Keras"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/>
-</p>
-
