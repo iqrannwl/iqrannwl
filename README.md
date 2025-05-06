@@ -14,6 +14,12 @@
   <a href="https://github.com/iqrannwl">
     <img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=social" />
   </a>
+  <a href="https://www.linkedin.com/in/iqrannwl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/iqrannwl/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,6 +27,8 @@
 ## 🚀 Projects & Contact
 
 - 🔗 [GitHub Profile](https://github.com/iqrannwl)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iqrannwl/)
+- 💻 [LeetCode](https://leetcode.com/iqrannwl/)
 - 📬 [Email Me](mailto:iqrannwl@gmail.com)
 
 ---
