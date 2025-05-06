@@ -1,93 +1,59 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Iqran+👋;Python+Developer+%7C+Django+%26+FastAPI+Fan;Machine+Learning+Explorer;Always+Learning+Something+New!&center=true&size=25" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&vCenter=true&width=600&lines=Hi+I'm+Iqran+👋;Python+%7C+Django+%7C+FastAPI;ML+Explorer+%7C+Always+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <b>Python Developer | Django & FastAPI Enthusiast | ML Learner</b><br>
-  🧠 Passionate about building scalable backends and intelligent systems<br>
-  🎯 <strong>2024 Goal:</strong> Contribute more to open-source<br>
-  💬 Ask me anything — I'm happy to help!<br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  <strong>Backend Developer | Machine Learning Learner</strong><br/>
+  🧠 Building scalable apps + exploring AI<br/>
+  🎯 2024 Goal: Open-source contributions<br/>
+  💬 Ask me anything. Happy to connect!
 </p>
 
-<!-- Social Links -->
+<!-- Socials -->
 <p align="center">
-  <a href="mailto:iqrannwl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/iqrannwl">
-    <img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iqrannwl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/iqrannwl/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <a href="mailto:iqrannwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/iqrannwl"><img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=flat&logo=github"/></a>
+  <a href="https://linkedin.com/in/iqrannwl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/iqrannwl"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧠 Machine Learning
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🗄️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📈 GitHub Stats & Contributions
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,postgres,mysql,sqlite,docker,nginx,git" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=react-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,matplotlib,tensorflow,keras" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqrannwl&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=monokai&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔍 Currently Working On
+## 🏆 Achievements
 
-- 💡 Improving my ML/AI projects with real-world datasets  
-- 🔧 Building REST APIs with FastAPI  
-- 🌱 Learning cloud deployments and CI/CD workflows
-
----
-
-## 📬 Contact
-
-- 📧 [iqrannwl@gmail.com](mailto:iqrannwl@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/iqrannwl)  
-- 👨‍💻 [GitHub](https://github.com/iqrannwl)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=darkhub&no-bg=true&no-frame=true&row=1&margin-w=10" />
+</p>
 
 ---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
