@@ -15,7 +15,8 @@
 <table align="center">
   <tr>
     <td>
-  <tr>
+      <table>
+          <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
@@ -24,14 +25,15 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
   </tr>
-  <tr>
+          <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=pandas" /><br>Pandas</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=numpy" /><br>NumPy</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" /><br>Sklearn</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
     <td colspan="3"></td>
   </tr>
-  <td>
+      </table>
+  </td>
     <td>
         <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
