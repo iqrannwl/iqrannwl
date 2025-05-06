@@ -14,6 +14,8 @@
 
 <table align="center">
   <tr>
+    <td>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
@@ -29,6 +31,14 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
     <td colspan="3"></td>
   </tr>
+  <td>
+    <td>
+        <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
+  </div>
+    </td>
+  </tr>
+
 </table>
 
 ---
@@ -49,10 +59,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
-</div>
 
 ---
 
