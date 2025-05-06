@@ -1,87 +1,59 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&vCenter=true&width=600&lines=Hi+I'm+Iqran+👋;Python+%7C+Django+%7C+FastAPI;ML+Explorer+%7C+Always+Learning" alt="Typing SVG" />
-</h1>
-
+<!-- HEADER -->
+<h2 align="center">Hi, I'm Iqran 👋</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  <strong>Backend Developer | Machine Learning Learner</strong><br/>
-  🧠 Building scalable apps + exploring AI<br/>
-  🎯 2024 Goal: Open-source contributions<br/>
-  💬 Ask me anything. Happy to connect!
+  Backend Developer · ML Explorer · FastAPI & Django Enthusiast  
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F78C6C&center=true&vCenter=true&width=400&lines=Always+Learning+New+Things;Love+Clean+Code;Open+to+Collaboration!" alt="Typing" />
 </p>
 
 ---
 
-<!-- GRID: Tech Stack -->
-<h2 align="center">🚀 Tech Stack</h2>
+<!-- GRID: TECH & ML STACK -->
+<h3 align="center">🧠 Tech Stack & ML Tools</h3>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" height="40"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="40"/><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,django,fastapi,git,docker,postgres,mysql" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" height="40"/><br>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow" /></td>
   </tr>
 </table>
 
 ---
 
-<!-- GRID: ML & Data Tools -->
-<h2 align="center">🧠 Machine Learning Toolkit</h2>
+<!-- GRID: STATS & STREAKS -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="40"/><br>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="40"/><br>NumPy</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br>Sklearn</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="150"/>
+</div>
 
 ---
 
-<!-- GRID: Stats & Activity -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqrannwl&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=react-dark&hide_border=true"/>
-</p>
+<!-- ACTIVITY + TROPHY -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="90%"/>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&margin-w=5&no-bg=true&row=1" />
+</div>
 
 ---
 
-<!-- GRID: Trophies -->
-<h2 align="center">🏆 Achievements</h2>
+<!-- CONTACT -->
+<h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=gruvbox&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
-<!-- GRID: Contact -->
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:iqrannwl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/iqrannwl"><img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=flat&logo=github"/></a>
+  <a href="mailto:iqrannwl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/iqrannwl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/iqrannwl"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/iqrannwl"><img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=flat&logo=github"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&section=footer"/>
 </p>
