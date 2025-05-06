@@ -1,16 +1,27 @@
-<!-- HEADER -->
-<h2 align="center">Hi, I'm Iqran 👋</h2>
-<p align="center">
-  Backend Developer · ML Explorer · FastAPI & Django Enthusiast  
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F78C6C&center=true&vCenter=true&width=400&lines=Always+Learning+New+Things;Love+Clean+Code;Open+to+Collaboration!" alt="Typing" />
-</p>
 
+
+<table>
+  <tr>
+    <td>
+      <!-- HEADER -->
+    <h2 align="center">Hi, I'm Iqran 👋</h2>
+    <p align="center">
+      Backend Developer · ML Explorer · FastAPI & Django Enthusiast  
+    </p>
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F78C6C&center=true&vCenter=true&width=400&lines=Always+Learning+New+Things;Love+Clean+Code;Open+to+Collaboration!" alt="Typing" />
+    </p>
+    </td>
+    <td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="200"/>
+    </td>
+  </tr>
+  
+</table>
 ---
 
-<!-- GRID: TECH & ML STACK -->
-<h3 align="center">🧠 Tech Stack & ML Tools</h3>
+
 
 
 <div align="center">
@@ -26,9 +37,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="200"/>
-    </td>
-    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="200"/>
     </td>
     <td align="center">
@@ -38,6 +46,8 @@
 </table>
 
 ---
+<!-- GRID: TECH & ML STACK -->
+<h3 align="center">🧠 Tech Stack & ML Tools</h3>
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
