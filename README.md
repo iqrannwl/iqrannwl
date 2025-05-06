@@ -22,11 +22,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true"/>
     </td>
     <td>
       <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%" height="350"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
 </div>
     </td>
   </tr>
