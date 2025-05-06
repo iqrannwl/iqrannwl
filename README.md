@@ -1,29 +1,35 @@
-<h1 align="center">Hi there, I'm Iqran 👋</h1>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Iqran+👋;Python+Developer+%7C+Django+%26+FastAPI+Fan;Machine+Learning+Explorer;Always+Learning+Something+New!&center=true&size=25" />
+</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
   <b>Python Developer | Django & FastAPI Enthusiast | ML Learner</b><br>
   🧠 Passionate about building scalable backends and intelligent systems<br>
   🎯 <strong>2024 Goal:</strong> Contribute more to open-source<br>
   💬 Ask me anything — I'm happy to help!<br>
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:iqrannwl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/iqrannwl">
-    <img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/iqrannwl?label=Follow&style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/iqrannwl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/iqrannwl/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<!-- Projects and Contact -->
 ## 🚀 Projects & Contact
 
 - 🔗 [GitHub Profile](https://github.com/iqrannwl)
@@ -60,23 +66,27 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqrannwl&layout=compact&theme=radical&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqrannwl&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqrannwl&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
+<!-- Footer Stats -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/iqrannwl?label=GitHub%20Stars&style=social" />
   <img src="https://img.shields.io/github/repos/iqrannwl?label=Public%20Repos&style=social" />
 </p>
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
