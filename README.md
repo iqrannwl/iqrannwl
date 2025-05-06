@@ -12,32 +12,46 @@
 <!-- GRID: TECH & ML STACK -->
 <h3 align="center">🧠 Tech Stack & ML Tools</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,django,fastapi,git,docker,postgres,mysql" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" /><br>Pandas</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" /><br>NumPy</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" /><br>Sklearn</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+    <td colspan="3"></td>
   </tr>
 </table>
 
 ---
 
 <!-- GRID: STATS & STREAKS -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="150"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&margin-w=5&no-bg=true&row=1" height="150"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="150"/>
-</div>
-
----
-
-<!-- ACTIVITY + TROPHY -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="90%"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&margin-w=5&no-bg=true&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
 </div>
 
 ---
