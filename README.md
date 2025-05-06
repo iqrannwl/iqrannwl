@@ -16,31 +16,30 @@
   <tr>
     <td>
       <table>
-          <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
-  </tr>
-          <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" /><br>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" /><br>NumPy</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" /><br>Sklearn</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-    <td colspan="3"></td>
-  </tr>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=pandas" /><br>Pandas</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=numpy" /><br>NumPy</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" /><br>Sklearn</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+          <td colspan="3"></td>
+        </tr>
       </table>
-  </td>
+    </td>
     <td>
-        <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%"/>
-  </div>
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqrannwl&theme=github-compact&hide_border=true" width="100%" height="350"/>
+      </div>
     </td>
   </tr>
-
 </table>
 
 ---
@@ -51,13 +50,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iqrannwl&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="200"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="150"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=iqrannwl&theme=radical&hide_border=true" height="200"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&margin-w=5&no-bg=true&row=1" height="150"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=iqrannwl&theme=onedark&margin-w=5&no-bg=true&row=1" height="200"/>
     </td>
   </tr>
 </table>
